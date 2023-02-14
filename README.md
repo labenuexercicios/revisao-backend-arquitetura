@@ -1,6 +1,8 @@
 # Revisão Backend 2
 
-Esse é o repositório de referência para o material de revisão de backend. Temos abaixo um exemplo de enunciado de projeto baseado em um app de playlists que será desenvolvido na dinâmica por meio dos materiais assíncronos. Leia-o com atenção antes de assistir os vídeos, pois o contexto dos schemas e das funcionalidades são importantes para o entendimento.
+Esse é o repositório de referência para o material de revisão de backend. Temos abaixo um exemplo de enunciado de projeto baseado em um app de playlists que será desenvolvido na dinâmica por meio dos materiais assíncronos. <br>
+
+Leia-o com atenção antes de assistir os vídeos, pois o contexto dos schemas e das funcionalidades são importantes para o entendimento.
 
 # Conteúdos abordados
 - NodeJS
@@ -17,6 +19,7 @@ Esse é o repositório de referência para o material de revisão de backend. Te
 - Postman
 
 # Banco de dados
+![Revisão Backend 2](https://user-images.githubusercontent.com/29845719/218814910-bf37f2b0-b58b-4f3d-9590-b6c12d618da8.png)
 
 https://dbdiagram.io/d/63ebc288296d97641d80ea1c
 
