@@ -1,6 +1,6 @@
 # Revisão Backend 2
 
-Esse é o repositório de referência para o material de revisão de backend. Temos abaixo um exemplo de enunciado de projeto baseado em e-commerce que será desenvolvido na dinâmica por meio dos materiais assíncronos. Leia-o com atenção antes de assistir os vídeos, pois o contexto dos schemas e das funcionalidades são importantes para o entendimento.
+Esse é o repositório de referência para o material de revisão de backend. Temos abaixo um exemplo de enunciado de projeto baseado em um app de playlists que será desenvolvido na dinâmica por meio dos materiais assíncronos. Leia-o com atenção antes de assistir os vídeos, pois o contexto dos schemas e das funcionalidades são importantes para o entendimento.
 
 # Conteúdos abordados
 - NodeJS
