@@ -93,7 +93,7 @@ Endpoint protegido, requer um token jwt para acessá-lo.
         "id": "uma uuid v4",
         "name": "Samba churrasco",
         "likes": 2,
-        "dislikes" 1,
+        "dislikes": 1,
         "createdAt": "2023-01-20T12:11:47:000Z"
         "updatedAt": "2023-01-20T12:11:47:000Z"
         "creator": {
@@ -105,7 +105,7 @@ Endpoint protegido, requer um token jwt para acessá-lo.
         "id": "uma uuid v4",
         "name": "Rock and Roll",
         "likes": 0,
-        "dislikes" 0,
+        "dislikes": 0,
         "createdAt": "2023-01-20T15:41:12:000Z"
         "updatedAt": "2023-01-20T15:49:55:000Z"
         "creator": {
