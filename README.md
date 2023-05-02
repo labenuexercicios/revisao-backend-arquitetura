@@ -196,7 +196,7 @@ Caso dê um dislike em uma playlist que tenha dado like, o dislike sobrescreve o
 - quando like valer 1 na tabela é porque a pessoa deu like na playlist
     - na requisição like é true
     
-- quando like valor 0 na tabela é porque a pessoa deu dislike na playlist
+- quando like valer 0 na tabela é porque a pessoa deu dislike na playlist
     - na requisição like é false
     
 - caso não exista um registro na tabela de relação, é porque a pessoa não deu like nem dislike
