@@ -43,6 +43,21 @@ https://dbdiagram.io/d/63ebc288296d97641d80ea1c
     - [ ]  Arquitetura em camadas
     - [ ]  Roteadores no Express
 
+# Token payload e User roles
+O enum de roles e o payload do token JWT devem estar no seguinte formato:
+```typescript
+export enum USER_ROLES {
+    NORMAL = "NORMAL",
+    ADMIN = "ADMIN"
+}
+
+export interface TokenPayload {
+    id: string,
+	name: string,
+    role: USER_ROLES
+}
+```
+
 # Exemplos de requisição
 
 ## Signup
