@@ -202,3 +202,6 @@ Caso dê um dislike em uma playlist que tenha dado like, o dislike sobrescreve o
 - caso não exista um registro na tabela de relação, é porque a pessoa não deu like nem dislike
 - caso dê like em uma playlist que já tenha dado like, o like é removido (deleta o item da tabela)
 - caso dê dislike em uma playlist que já tenha dado dislike, o dislike é removido (deleta o item da tabela)
+
+# Documentação POSTMAN
+https://documenter.getpostman.com/view/21151478/2s93CExHF2
