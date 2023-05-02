@@ -1,4 +1,4 @@
-# Revisão Backend 2
+# Revisão Backend Arquitetura
 
 Esse é o repositório de referência para o material de revisão de backend. Temos abaixo um exemplo de enunciado de projeto baseado em um app de playlists que será desenvolvido na dinâmica por meio dos materiais assíncronos. <br>
 
