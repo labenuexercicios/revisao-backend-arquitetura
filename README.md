@@ -95,7 +95,7 @@ Endpoint público utilizado para login. Devolve um token jwt.
 }
 ```
 
-## Get playlist
+## Get playlists
 Endpoint protegido, requer um token jwt para acessá-lo.
 ```typescript
 // request GET /playlists
@@ -131,7 +131,7 @@ Endpoint protegido, requer um token jwt para acessá-lo.
 ]
 ```
 
-## Create playlists
+## Create playlist
 Endpoint protegido, requer um token jwt para acessá-lo.
 ```typescript
 // request POST /playlists
